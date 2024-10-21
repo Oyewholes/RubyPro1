@@ -1,0 +1,18 @@
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-hg2lwf sitelibdir\=./.gem.20241019-11401-hg2lwf clean
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-hg2lwf sitelibdir\=./.gem.20241019-11401-hg2lwf
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-hg2lwf sitelibdir\=./.gem.20241019-11401-hg2lwf install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20241019-11401-hg2lwf
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-hg2lwf sitelibdir\=./.gem.20241019-11401-hg2lwf clean

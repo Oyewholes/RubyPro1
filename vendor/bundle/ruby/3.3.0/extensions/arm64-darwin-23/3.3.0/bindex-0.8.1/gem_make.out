@@ -1,0 +1,18 @@
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-3yhqrn sitelibdir\=./.gem.20241019-11401-3yhqrn clean
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-3yhqrn sitelibdir\=./.gem.20241019-11401-3yhqrn
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-3yhqrn sitelibdir\=./.gem.20241019-11401-3yhqrn install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20241019-11401-3yhqrn/skiptrace/internal
+
+current directory: /Users/oyediranoyewole/Desktop/FirstRail/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241019-11401-3yhqrn sitelibdir\=./.gem.20241019-11401-3yhqrn clean
