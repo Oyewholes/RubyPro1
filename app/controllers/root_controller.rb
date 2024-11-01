@@ -4,12 +4,12 @@ class RootController < ApplicationController
         render 'index'
     end
 
-
     def about
         render "about"
     end
 
     def contact
+        #redirect_to('/about')
         render "contact"
     end
 
@@ -20,4 +20,8 @@ class RootController < ApplicationController
         }
         render json: @response
     end 
+
+    def user
+        render json: params
+    end
 end
